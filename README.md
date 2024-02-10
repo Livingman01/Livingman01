@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Livingman01
-- 👀 I’m interested in connecting with others with interest data analysis 
+- 👀 I’m interested in connecting with others with interest in data analysis 
 - 🌱 I’m currently learning excel, R programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter. @livingman13
-- 😄 Pronouns: He/Hinm
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
